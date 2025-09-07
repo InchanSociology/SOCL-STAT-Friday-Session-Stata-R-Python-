@@ -4,3 +4,6 @@ This is an extension of the Friday Stata sessions from the SOCL STAT: BASIC CONC
 Each weekly folder contains command files in different formats: `.R` for R scripts, `.ipynb` for Python notebooks, and `.do` for Stata do-files.  
 If you have any questions related to R, Python, or Stata — or if you'd like to discuss statistical methods or research methodology — feel free to reach out to Inchan Hwang (ih6282@my.utexas.edu or Whatsapp)
 I'd be happy to help or have a thoughtful conversation about your ideas!
+
+P.S. All scripts consist of executable commands and brief descriptions.  
+There are no detailed comments or explanations included in the files.
